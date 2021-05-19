@@ -1,4 +1,4 @@
-# Human Centered Reflective Portfolio
+# Human Centered Complex Systems Reflective Portfolio
 ## Week 1:
 I haven’t learnt anything in modelling before and very interested to see what this subject will cover. Learning about how to model how people behave is really interesting and am excited for this course. 
 From the lecture I understood that a complex system is when a system can be understood as a whole and doesn’t need to be simplified whereas a complex system is simplified and broken into parts to be understood better.
